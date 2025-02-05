@@ -1,3 +1,8 @@
 {
-  "key.inescapableworld.toggle_icon": "導入確認アイコンの表示切替"
+  "key.inescapableworld.toggle_icon": "導入確認アイコンの表示切替",
+  "Inescapable World Mod - Disclaimer" : "Inescapable World Mod - 免責事項",
+  "This mod restricts game exit options." : "このModは、ゲームの終了オプションを制限します。",
+  "By using this mod, you agree to these restrictions." : "このModを使用することで、これらの制限に同意したものとみなします。",
+  "If you do not agree, please exit the game." : "同意しない場合は、ゲームを終了してください。",
+  "To exit, press ALT+F4 or close the game from Task Manager." : "終了するには、ALT+F4を押すか、タスクマネージャーからゲームを終了してください。"
 }

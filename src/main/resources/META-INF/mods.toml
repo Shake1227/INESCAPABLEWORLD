@@ -17,7 +17,7 @@ license="${mod_license}"
 # The modid of the mod
 modId="inescapableworld" #mandatory
 # The version number of the mod
-version="1.0" #mandatory
+version="1.0.1" #mandatory
 # A display name for the mod
 displayName="INESCAPABLE WORLD" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
@@ -41,8 +41,10 @@ authors="Shake" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''You can't run from your problems forever...
 
-このMODはプレイヤーを管理者の許可なくサーバーから抜ける行為を妨害するMODです。
-メニューからのサーバーからの切断、Alt + F4などの強制終了などを無効化します。ただし、OSの制限を超えた動作の改ざんは不可能ですのでこのMODは完全にサーバーからの切断を妨害するものではありません。'''
+注意
+このMODはメニューの切断ボタンをロックし、機能を封じるMODです。
+終了する場合はAlt+F4またはクローズボタンのみの終了方法に限定されます。このことを把握した上で自己責任で使用してください。
+MOD開発者は一切の責任を負いません。'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.inescapableworld]] #optional
     # the modid of the dependency
